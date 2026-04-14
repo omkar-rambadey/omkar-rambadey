@@ -22,8 +22,8 @@ I specialize in investigating **ultrafast structural and electronic dynamics** i
   - Raman Spectroscopy
   - Optical Absorption Spectroscopy / Diffuse Reflectance Spectroscopy
   - Scanning Electron Microscopy
-  - Material Synthesis (routes: sol-gel, solid state, hydrothermal)
-- **Languages:** Python (NumPy, SciPy, Matplotlib), HTML, LaTeX.
+  - Materials Synthesis (routes: sol-gel, solid state, hydrothermal)
+- **Languages:** Python (NumPy, SciPy, Matplotlib), LaTeX, HTML, C.
 
 ---
 
@@ -32,7 +32,7 @@ I specialize in investigating **ultrafast structural and electronic dynamics** i
 
 - **Big Data Handling:** Experience in processing and reducing large-scale experimental datasets (Terabyte-scale) from XFEL and Synchrotron sources.
 - **HPC Systems:** Proficient in deploying parallelized data analysis pipelines on High-Performance Computing clusters (SLURM, multi-node processing).
-- **Scientific Programming:** Expert in Python (NumPy, SciPy, Matplotlib) for instrumentation control and data visualization.
+- **Scientific Programming:** Python (NumPy, SciPy, Matplotlib) for data analysis, data visualization and instrumentation control.
 - **Monte Carlo Methods**
 - **Open Source:** Developing scientific tools using Python for the wider community.
 
