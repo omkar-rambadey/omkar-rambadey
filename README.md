@@ -40,7 +40,7 @@ I specialize in investigating **ultrafast structural and electronic dynamics** i
 
 ### 🔗 Let's Connect
 
-- 🌐 [Personal Website](https://omkar-rambadey.github.io)
+- 🌐 [omkar-rambadey.github.io](https://omkar-rambadey.github.io)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=iMOD96MAAAAJ&hl=en)
 - 📧 [omkar.rambadey@mpsd.mpg.de](mailto:omkar.rambadey@mpsd.mpg.de)
 
