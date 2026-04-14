@@ -46,6 +46,10 @@ I specialize in investigating **ultrafast structural and electronic dynamics** i
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkar-rambadey&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
-</p>
+</p> -->
+### 📊 GitHub Activity & Tech
+![GitHub language count](https://img.shields.io/github/languages/count/omkar-rambadey/omkar-rambadey.github.io?color=blue&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/omkar-rambadey/omkar-rambadey.github.io?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/omkar-rambadey/omkar-rambadey.github.io?style=flat-square)
