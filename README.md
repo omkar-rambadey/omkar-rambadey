@@ -47,5 +47,5 @@ I specialize in investigating **ultrafast structural and electronic dynamics** i
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar-rambadey&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omkar-rambadey&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
